@@ -1,13 +1,4 @@
-<html >
-    <head>
-    </head>
-        </header>
-        <div class="m-box">
-                <span style="font-size: 25px;margin-left:200px;">禹果</span
-                <a href="https://github.com/aimiu112/aimiu112.github.com">WEB作业</a>
-                </li>
-            </div>
-            </div>
-        </div>
-    </body>
-</html>
+## WEB作业10
+`杭州师范大学`
+禹果
+* [web实验作业](https://github.com/aimiu112/aimiu112.github.com)
