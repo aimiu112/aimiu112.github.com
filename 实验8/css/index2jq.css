@@ -1,0 +1,29 @@
+.body{
+    width: 1000px;
+    margin: auto;
+}
+.m-box{
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+}
+.m-box>li{
+    width: 60px;
+    height: 30px;
+    /*background-color: #c0c0c0;*/
+    border: 1px solid #3c3c3c;
+    list-style: none;
+}
+.m-window{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #3c3c3c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3c3c3c;
+    font-size: 140px;
+}
+.highlight{
+    background-color: #c0c0c0;
+}

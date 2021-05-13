@@ -1,0 +1,270 @@
+.m-bg{
+    opacity: 0.3;
+}
+body {
+    width: 608px;
+    height: 881px;
+}
+.a1 {
+    color: gray;
+    margin: -812px 100px 100px 74px;
+    font-size: 21px;
+    letter-spacing: 3.2px;
+    
+}
+.a2 {
+    color: gray;
+    margin: -128px 100px 100px 206px;
+    font-size: 21px;
+    letter-spacing: 3.3px;
+}
+.a3 {
+    color: gray;
+    margin: -128px 100px 100px 338px;
+    font-size: 21px;
+    letter-spacing: 3.1px;
+}
+.a4 {
+    color: gray;
+    margin: -128px 100px 100px 470px;
+    width: 73px;
+    letter-spacing: 3.1px;
+    font-size: 21px;
+}
+.a5 {
+    color: orange;
+    margin: -165px 100px 100px 101px;
+    font-size: 27px;
+    width: 550px;
+}
+span.a7 {
+    margin: 108px;
+}
+span.a8 {
+    margin: 265px 0px;
+}
+span.a9 {
+    margin: 397px 108px;
+}
+.a10 {
+    color: #FF7569;
+    margin: -29px 15px;
+    font-size: 22px;
+    letter-spacing: 2.1px;
+}
+span.a11 {
+    margin: 0px 163px;
+    position: absolute;
+}
+span.a12 {
+    background-color: #ffe5de;
+    padding: 12.5px 500px 12.5px 77px;
+    border: 50px;
+    opacity: 0.3;
+}
+span.a13 {
+    color: red;
+    margin: 10px -117px;
+}
+.a14 {
+    margin: 72px 61px;
+}
+span.a15 {
+    color: gray;
+    letter-spacing: 3.1px;
+    font-size: 21px;
+}
+span.a16 {
+    color: gray;
+    margin: -12px 55px;
+    font-size: 21px;
+    letter-spacing: 2.3px;
+}
+span.a17 {
+    margin: 10px 1px;
+    font-size: 21px;
+    letter-spacing: 2.9px;
+}
+span.a18 {
+    color: gray;
+    margin: 50px 55px;
+    font-size: 21px;
+    letter-spacing: 2.1px;
+}
+span.a19 {
+    color: gray;
+    font-size: 21px;
+    letter-spacing: 2.1px;
+    margin: 2px;
+}
+.a21 {
+    background-color: orange;
+    margin: -66px 268px;
+    padding: 2px 10px;
+    width: 44px;
+}
+.a20 {
+    margin: 98px -62px;
+    font-size: 22.3px;
+    width: 650px;
+    letter-spacing: 0.9px;
+}
+span.a22 {
+    color: orange;
+    margin: -126px 100px;
+
+}
+span.a23 {
+    color: orange;
+    margin: -25px -42px;
+    letter-spacing: 1.5px;
+}
+.a24 {
+    letter-spacing: 1.5px;
+    font-size: 22.3px;
+    margin: -77px 30px;
+}
+span.a25 {
+    margin: -35px 9px;
+}
+span.a26 {
+    margin: 75px;
+}
+.m-pic1 {
+    margin: -472px 0px 0px 35px;
+    position: absolute;
+    width: 608px;
+}
+img.a27 {
+    margin: -7px 23px;
+}
+img.a28 {
+    margin: -131px 0px 0px 441px;
+}
+img.a29 {
+    margin: -126px 0px 0px 292px;
+}
+.a30 {
+    margin: 286px 0px 0px 66px;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+span.a31 {
+    color: orange;
+}
+span.a32 {
+    margin: 38px;
+    color: gray;
+}
+span.a33 {
+    margin: 1px;
+    color: gray;
+}
+span.a34 {
+    margin: 38px;
+    color: gray;
+}
+.a36 {
+    width: 10px;
+    margin: -49px 559px;
+    font-size: 32px;
+    color: gray;
+}
+.a37 {
+    padding: 0.5px 1px 1px;
+    background-color: gray;
+    margin: 76px 46px;
+    width: 378px;
+    opacity: 0.5;
+}
+.a38 {
+    padding: 0.5px 1px;
+    background-color: gray;
+    width: 378px;
+    margin: -26px 46px;
+    opacity: 0.5;
+}
+.a39 {
+    padding: 1px 1px;
+    background-color: gray;
+    width: 378px;
+    margin: 74px 46px;
+    opacity: 0.5;
+}
+.a40 {
+    padding: 0.5px 1px;
+    background-color: gray;
+    width: 0.5px;
+    height: 100px;
+    margin: -176px 46px;
+    opacity: 0.5;
+}
+.a41 {
+    padding: 0.5px 1px;
+    background-color: gray;
+    width: 0.5px;
+    height: 100px;
+    margin: 76px 425px;
+    opacity: 0.5;
+}
+.a42 {
+    margin: -166px 59px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: gray;
+}
+.a44 {
+    margin: 189.5px 56.7px;
+    font-size: 22px;
+    letter-spacing: 1.5px;
+    color: gray;
+}
+.a46 {
+    margin: -168px 55px;
+    font-size: 21.5px;
+    letter-spacing: 2px;
+    color: gray;
+}
+span.a48 {
+    margin: 0px -5px;
+    font-size: 22px;
+}
+span.a49 {
+    margin: 2px;
+    font-size: 23px;
+    color: orange;
+}
+span.a50 {
+    margin: -9px;
+    font-size: 23px;
+    color: orange;
+}
+span.a51 {
+    margin: 2px;
+    font-size: 23px;
+    color: orange;
+}
+span.a52 {
+    margin: -8px;
+    font-size: 23px;
+    color: orange;
+}
+span.a53 {
+    margin: 1px;
+    font-size: 23px;
+    color: orange;
+}
+.a54 {
+    margin: 206px 64px;
+    font-size: 23.5px;
+}
+span.a55 {
+    position: absolute;
+    margin: -13px 10px 10px 2px;
+    color: white;
+}
+span.a56 {
+    padding: 22px 12px 0px 124px;
+    background-color: orange;
+    margin: -1px 10px 10px -18px;
+}

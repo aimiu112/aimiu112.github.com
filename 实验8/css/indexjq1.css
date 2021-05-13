@@ -1,0 +1,41 @@
+@charset "UTF-8";
+*{
+  margin:0;
+  padding:0;
+}
+
+ 
+#imgdiv{
+  display: flex;
+  width: 1600px;
+  flex-flow: wrap;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+#imgdiv img{
+  display: flex;
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+#bigimg{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background: rgba(0,0,0,.3);
+  top: 0;
+  display: none;
+}
+#bigimg img{
+  width: 600px;
+  height: 600px;
+  margin:auto;
+  position: fixed;
+  left:0;
+  right:0;
+  top: 85px;
+  cursor: pointer;
+}
