@@ -1,9 +1,7 @@
 <html >
     <head>
     </head>
-    <body style="background: #3a3838;">
         <div class="Nubela-xu" >
-        <header class="inner" style="background:#3a3838;height: 200px;">
         </header>
         <div class="m-box">
             <div class="title" style="background-color: #dad4d4;margin: 0;">
